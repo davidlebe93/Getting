@@ -3,4 +3,4 @@ Goal of the Project A tidy data set A link to a Github repository with your scri
 
 THE STEPS PERFORMED IN THIS PROJECT IS EXPLAINED BELOW Load Packages and get the Data Load activity labels + features Load train datasets Load test datasets merge datasets Convert classLabels to activityName basically. More explicit.
 
-For more details refer to the comments in the run_analysis file.
+For more details refer to the comments in the R1 file.
